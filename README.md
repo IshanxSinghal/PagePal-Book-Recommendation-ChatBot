@@ -28,7 +28,7 @@ PagePal is a mood and genre-based AI chatbot that recommends books just like a g
 
 - **IBM Watson Assistant**
 - **HTML/CSS**
-- [Optional] Will add React or API integration in future
+- Will add React or API integration in future
 
 ---
 
@@ -37,8 +37,8 @@ PagePal is a mood and genre-based AI chatbot that recommends books just like a g
 | File | Description |
 |------|-------------|
 | `index.html` | Web interface to embed chatbot |
-| `PagePal_Report.pdf` | Full project report |
-| `PagePal_Presentation.pptx` | Slide deck used for demo and explanation |
+| `PagePal ChatBot.pdf` | Full project report |
+| `PagePal.pptx` | Slide deck used for demo and explanation |
 
 ---
 
